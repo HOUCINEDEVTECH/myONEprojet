@@ -1,6 +1,7 @@
 # " hello wordl"
 print(" hello world")
 print(" hello hamza")
+print(" I WILL study proramming in UIT ")
 # first prog FIND THE PASSWORD
 secret_code= 10
 guess_count = 0
