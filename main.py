@@ -1,7 +1,6 @@
 # " hello wordl"
 print(" hello world")
 print(" hello hamza")
-print(" i will study programming in Charguia")
 # first prog FIND THE PASSWORD
 secret_code= 10
 guess_count = 0
